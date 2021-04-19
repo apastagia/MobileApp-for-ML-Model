@@ -11,3 +11,5 @@ Flask - ngrok used for web browser application.
 
 ## MobileApp:
 MIT App Inventor: To create mobile application. It's a drag and drop application.
+
+Here I have used MIT App Invetor to deploy Machine Learning Model. Create Surviving People Prediction(Titanic Dataset).
